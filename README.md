@@ -28,14 +28,13 @@ Site web officiel de l’association étudiante **GHOSTECH**, dédiée à l’in
 
 ## 🎨 Design
 
-Design inspiré du site ghostech-design.netlify.app  
 Ambiance futuriste avec animations, particules et effets lumineux.
 
 ## 🚀 Installation locale
 
 ```bash
-git clone https://github.com/ton-username/ghostech-site.git
-cd ghostech-site
+git clone https://github.com/neessey/Goshtech.git
+cd Ghostech
 npm install
 npm run dev
 ```
@@ -56,18 +55,6 @@ Le site est hébergé sur **Render**.
 Le formulaire utilise **Formspree** et envoie directement les messages vers :  
 📧 ghostech92@gmail.com
 
-## 📁 Livrables
-
-- Site web fonctionnel  
-- Code source GitHub  
-- Documentation complète  
-
-## ✅ Critères de validation
-
-- Site responsive  
-- Pages fonctionnelles  
-- Formulaire opérationnel  
-- Site déployé en ligne  
 
 ## 👨‍💻 Auteur
 
